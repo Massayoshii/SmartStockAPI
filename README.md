@@ -35,5 +35,5 @@ src/main/java
  ├── controller
  ├── service
  ├── repository
- ├── domain
+ ├── entity
  ├── exception
